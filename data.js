@@ -2,7 +2,7 @@ const DATA = [
   {
     name: "Արագածոտն",
     class: "Aragatsotn",
-    numberՕfVictims: "10",
+    numberՕfVictims: "9",
   },
   {
     name: "Արարատ",
@@ -27,7 +27,7 @@ const DATA = [
   {
     name: "Երևան",
     class: "Yerevan",
-    numberՕfVictims: "63",
+    numberՕfVictims: "62",
   },
   {
     name: "Լոռի",
@@ -73,6 +73,6 @@ const DATA = [
   },
   {
     name: "Հայտնի չէ",
-    numberՕfVictims: "1",
+    numberՕfVictims: "5",
   },
 ];
